@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aghvansargsyan
+- 👋 Hi, I’m Aghvan
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently improving my knowledge
 - 🌪️ I’m looking to collaborate on React projects
